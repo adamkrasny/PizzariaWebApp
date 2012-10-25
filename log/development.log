@@ -1,0 +1,12 @@
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-10-25 11:32:02 -0500
+Connecting to database specified by database.yml
+Served asset /rails.png - 304 Not Modified (6ms)
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-10-25 12:08:06 -0500
+Connecting to database specified by database.yml
+Served asset /rails.png - 304 Not Modified (3ms)
