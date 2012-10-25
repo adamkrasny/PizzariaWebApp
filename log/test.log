@@ -10,3 +10,518 @@ Connecting to database specified by database.yml
 Connecting to database specified by database.yml
   [1m[36m (0.0ms)[0m  [1mBEGIN[0m
   [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:21:40 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.3ms)
+Completed 200 OK in 43ms (Views: 20.4ms | ActiveRecord: 19.6ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:23:49 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 39ms (Views: 17.0ms | ActiveRecord: 19.2ms)
+  [1m[36m (1.1ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:25:52 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 68ms (Views: 43.8ms | ActiveRecord: 21.5ms)
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:28:56 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 37ms (Views: 17.8ms | ActiveRecord: 16.3ms)
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:29:17 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 37ms (Views: 17.3ms | ActiveRecord: 16.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:29:28 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.4ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 61ms (Views: 45.9ms | ActiveRecord: 11.9ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:30:10 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 87ms (Views: 44.1ms | ActiveRecord: 39.6ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:32:25 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 70ms (Views: 45.7ms | ActiveRecord: 20.9ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:34:30 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 86ms (Views: 44.3ms | ActiveRecord: 39.1ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:47:03 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.8ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 41ms (Views: 19.1ms | ActiveRecord: 18.1ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:49:06 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.5ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 62ms (Views: 44.4ms | ActiveRecord: 14.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:51:42 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 59ms (Views: 43.9ms | ActiveRecord: 12.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:59:21 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.5ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 33ms (Views: 17.6ms | ActiveRecord: 12.2ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 14:59:29 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.4ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 32ms (Views: 17.2ms | ActiveRecord: 12.4ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:00:15 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.5ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 33ms (Views: 17.5ms | ActiveRecord: 12.5ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:01:08 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.5ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 30ms (Views: 16.9ms | ActiveRecord: 10.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:01:58 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (2.4ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.7ms)
+Completed 200 OK in 53ms (Views: 17.1ms | ActiveRecord: 32.9ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:03:37 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.8ms)
+Completed 200 OK in 59ms (Views: 17.1ms | ActiveRecord: 38.7ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:04:19 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.0ms)
+Completed 200 OK in 87ms (Views: 44.4ms | ActiveRecord: 39.4ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:07:01 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 66ms (Views: 44.3ms | ActiveRecord: 19.3ms)
+  [1m[36m (0.6ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:08:14 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.8ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.1ms)
+Completed 200 OK in 44ms (Views: 17.6ms | ActiveRecord: 23.1ms)
+  [1m[36m (0.5ms)[0m  [1mROLLBACK[0m
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:34:26 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 34ms (Views: 18.6ms | ActiveRecord: 12.6ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 15:34:26 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:06:38 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (4.0ms)
+Completed 200 OK in 41ms (Views: 19.0ms | ActiveRecord: 13.5ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:06:38 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:07:10 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.6ms)[0m  SELECT "orders".* FROM "orders" 
+Completed 200 OK in 38ms (Views: 18.3ms | ActiveRecord: 11.4ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:07:10 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 13ms (Views: 12.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:07:10 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.4ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.4ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:08:33 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 41ms (Views: 18.8ms | ActiveRecord: 13.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:08:33 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:08:33 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 13ms (Views: 12.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:08:33 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:08:54 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.6ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 41ms (Views: 18.7ms | ActiveRecord: 13.2ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:08:54 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:08:54 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 13ms (Views: 12.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:08:54 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:10:41 -0500
+Processing by OrdersController#new as HTML
+  Rendered orders/new.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 47ms (Views: 28.0ms | ActiveRecord: 11.4ms)
+
+
+Started POST "/orders" for 127.0.0.1 at 2012-10-25 16:10:42 -0500
+Processing by OrdersController#create as HTML
+  Parameters: {"utf8"=>"✓", "order"=>{"customer_name"=>"test customer name"}, "commit"=>"Create Order"}
+  [1m[35m (0.2ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (6.9ms)[0m  [1mINSERT INTO "orders" ("created_at", "customer_name", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Thu, 25 Oct 2012 21:10:42 UTC +00:00], ["customer_name", "test customer name"], ["updated_at", Thu, 25 Oct 2012 21:10:42 UTC +00:00]]
+  [1m[35m (0.2ms)[0m  RELEASE SAVEPOINT active_record_1
+Redirected to http://www.example.com/orders
+Completed 302 Found in 11ms (ActiveRecord: 7.2ms)
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:10:42 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.5ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+  Rendered orders/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 6ms (Views: 3.7ms | ActiveRecord: 0.5ms)
+  [1m[35m (0.3ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:10:42 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.1ms)[0m  SELECT "orders".* FROM "orders" 
+Completed 200 OK in 5ms (Views: 2.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:10:42 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:10:42 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 4ms (Views: 2.1ms | ActiveRecord: 0.3ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:29:27 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (1.7ms)[0m  SELECT "orders".* FROM "orders" 
+  Rendered orders/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 39ms (Views: 18.6ms | ActiveRecord: 17.0ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 16:29:27 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.3ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:29:27 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 18ms (Views: 12.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 16:29:27 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 4ms (Views: 3.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 17:08:36 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.5ms)[0m  SELECT "orders".* FROM "orders" 
+  [1m[36mPizza Load (0.7ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1
+  [1m[36mPizza Load (0.3ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1
+  Rendered orders/index.html.erb within layouts/application (82.1ms)
+Completed 200 OK in 118ms (Views: 94.5ms | ActiveRecord: 15.5ms)
+  [1m[36m (0.3ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.0ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 17:08:37 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (1.1ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+  [1m[35mPizza Load (1.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1[0m
+  [1m[35mPizza Load (0.2ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1[0m
+Completed 200 OK in 8ms (Views: 4.9ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 17:08:37 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 18ms (Views: 15.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 17:08:37 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  ROLLBACK
+Connecting to database specified by database.yml
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.6ms)[0m  SELECT "orders".* FROM "orders" 
+  [1m[36mPizza Load (0.9ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1
+  [1m[36mPizza Load (0.4ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1
+  Rendered orders/index.html.erb within layouts/application (81.3ms)
+Completed 200 OK in 118ms (Views: 93.4ms | ActiveRecord: 16.2ms)
+  [1m[36m (0.2ms)[0m  [1mROLLBACK[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#index as HTML
+  [1m[36mOrder Load (0.2ms)[0m  [1mSELECT "orders".* FROM "orders" [0m
+  [1m[35mPizza Load (0.3ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1[0m
+  [1m[35mPizza Load (0.3ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1
+  [1m[36mCACHE (0.0ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1[0m
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 17ms (Views: 15.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  ROLLBACK
+  [1m[36m (0.0ms)[0m  [1mBEGIN[0m
+
+
+Started GET "/orders/new" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#new as HTML
+Completed 200 OK in 6ms (Views: 5.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/orders" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#create as HTML
+  Parameters: {"utf8"=>"✓", "order"=>{"customer_name"=>"test customer name", "pizzas_attributes"=>{"0"=>{"size"=>"medium", "toppings"=>"pepperoni, sausage"}}}, "commit"=>"Create Order"}
+  [1m[35m (0.3ms)[0m  SAVEPOINT active_record_1
+  [1m[36mSQL (7.5ms)[0m  [1mINSERT INTO "orders" ("created_at", "customer_name", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["created_at", Thu, 25 Oct 2012 22:10:11 UTC +00:00], ["customer_name", "test customer name"], ["updated_at", Thu, 25 Oct 2012 22:10:11 UTC +00:00]]
+  [1m[35mSQL (0.9ms)[0m  INSERT INTO "pizzas" ("created_at", "order_id", "size", "toppings", "updated_at") VALUES ($1, $2, $3, $4, $5) RETURNING "id"  [["created_at", Thu, 25 Oct 2012 22:10:11 UTC +00:00], ["order_id", 3], ["size", "medium"], ["toppings", "pepperoni, sausage"], ["updated_at", Thu, 25 Oct 2012 22:10:11 UTC +00:00]]
+  [1m[36m (0.1ms)[0m  [1mRELEASE SAVEPOINT active_record_1[0m
+Redirected to http://www.example.com/orders
+Completed 302 Found in 16ms (ActiveRecord: 8.8ms)
+
+
+Started GET "/orders" for 127.0.0.1 at 2012-10-25 17:10:11 -0500
+Processing by OrdersController#index as HTML
+  [1m[35mOrder Load (0.4ms)[0m  SELECT "orders".* FROM "orders" 
+  [1m[36mPizza Load (0.3ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 1 LIMIT 1
+  [1m[36mPizza Load (0.3ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 2 LIMIT 1
+  [1m[36mPizza Load (0.3ms)[0m  [1mSELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 3 LIMIT 1[0m
+  [1m[35mCACHE (0.0ms)[0m  SELECT "pizzas".* FROM "pizzas" WHERE "pizzas"."order_id" = 3 LIMIT 1
+Completed 200 OK in 8ms (Views: 5.5ms | ActiveRecord: 1.2ms)
+  [1m[36m (0.1ms)[0m  [1mROLLBACK[0m
