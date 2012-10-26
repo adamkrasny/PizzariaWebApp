@@ -1,4 +1,6 @@
 PizzariaWebApp::Application.routes.draw do
+  devise_for :admins
+
   devise_for :users
 
   # The priority is based upon order of creation:
@@ -15,7 +17,9 @@ PizzariaWebApp::Application.routes.draw do
   # Sample resource route (maps HTTP verbs to controller actions automatically):
   #   resources :products
 
-  resources :orders
+  resources :orders do
+    delete :destroy_all, :on => :collection
+  end
   # Sample resource route with options:
   #   resources :products do
   #     member do

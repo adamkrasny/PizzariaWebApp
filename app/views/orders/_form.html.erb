@@ -1,0 +1,23 @@
+<%= form_for(@order) do |form| %>
+  <div class="field">
+    <%= form.label :customer_name %><br />
+    <%= form.text_field :customer_name %>
+  </div>
+  <%= form.fields_for :pizzas do |builder| %>
+    <div class="field">
+      <%= builder.label :size %> <br />
+      <%= builder.select :size, pizza_sizes %>
+    </div>
+    <% pizza_ingredients.each do |ingredient| %>
+      <div class="field">
+        <%= builder.label ingredient %> <br />
+        <%= check_box_tag "ingredients[]", ingredient, @toppings_array.include?(ingredient) %>
+      </div>
+    <% end %>
+  <% end %>
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
+
+
